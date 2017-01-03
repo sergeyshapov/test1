@@ -1,6 +1,40 @@
-Hello Git 123321
-It's new line
-Add new line
-111111111
+Adding Http Basic Auth to RESTful Services in Java and Spring
+https://dzone.com/articles/adding-http-basic-auth-restful
 
-branch MASTER
+Web service client with Java application and SSL
+http://stackoverflow.com/questions/4722644/web-service-client-with-java-application-and-ssl
+
+SPRING INITIALIZR 
+http://start.spring.io/
+
+Установка Intellij Idea в Ubuntu.
+http://www.linuxrussia.com/2015/04/intellij-idea-ubuntu.html
+
+УСТАНОВКА И ИСПОЛЬЗОВАНИЕ DOCKER В UBUNTU 16.04
+https://www.8host.com/blog/ustanovka-i-ispolzovanie-docker-v-ubuntu-16-04/
+
+
+
+Docker – руководство для начинающих
+http://rus-linux.net/MyLDP/vm/docker/docker-tutorial.html
+
+Dockerfile reference
+https://docs.docker.com/engine/reference/builder/
+
+
+Spring Boot with Docker
+https://spring.io/guides/gs/spring-boot-docker/
+
+
+
+Build a simple Spring Boot app with Docker
+http://containertutorials.com/docker-compose/spring-boot-app.html
+
+Обзор способов и протоколов аутентификации в веб-приложениях
+https://habrahabr.ru/company/dataart/blog/262817/
+
+Allowing SSL / HTTPS for your Discourse Docker setup
+https://meta.discourse.org/t/allowing-ssl-https-for-your-discourse-docker-setup/13847
+
+Securing Docker with TLS certificates
+http://tech.paulcz.net/2016/01/secure-docker-with-tls/
